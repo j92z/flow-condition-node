@@ -1,0 +1,21 @@
+{
+    "name": "j92z/flow-condition-node",
+    "description": "flow & condition & node",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "j92z",
+            "email": "zeco11320@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload":{
+        "psr-4":{ 
+            "J92z\\Flow\\Condition\\": "src/j92z/condition"
+        }
+    }
+}
