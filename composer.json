@@ -9,7 +9,7 @@
             "email": "zeco11320@163.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-main",
     "require": {
         "php": ">=7.1"
     },
